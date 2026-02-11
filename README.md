@@ -68,6 +68,8 @@ InsightsMetrics
 | summarize Avg_CPU = avg(Val) by bin(TimeGenerated, 5m)
 | render timechart
 
+![Log Analytics CPU Chart](screenshots/log-analytics-cpu.png)
+
 ## 5️⃣ Recovery Services Vault Overview
 
 Backup services and site recovery configuration verified within the vault.
