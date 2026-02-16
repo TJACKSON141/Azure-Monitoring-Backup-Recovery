@@ -1,4 +1,4 @@
-# 📊 Azure Monitoring, Backup & Recovery (AZ-104 Lab)
+# 📊 Azure Monitoring, Backup & Recovery
 
 ## 🔍 Overview
 
